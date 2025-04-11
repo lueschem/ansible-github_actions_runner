@@ -64,7 +64,7 @@
       - libkrb5-3
       - zlib1g
       - libssl3
-      - libicu72
+      - libicu76
     state: present
     update_cache: true
   become: true
